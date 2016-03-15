@@ -20,15 +20,7 @@ public class StupidCircle {
 		fb.froll = dice.nextInt(20);
 		fb.turn = 0;
 		for(int i=0;i<15;i++)chessnum[i]=1;
-	/*	chessnum[0]=0;
-		chessnum[1]=0;
-		chessnum[3]=0;
-		chessnum[4]=0;
-		chessnum[5]=0;
-		chessnum[14]=1;
-		chessnum[11]=1;
-		chessnum[13]=1;
-		chessnum[14]=1;*/
+
 		System.out.println("mode 1: Human VS. Human.\nmode 2: Human VS. computer.");
 		for(int i=0;i<15;i++)chessnumsum+=chessnum[i];
 		while(true){
