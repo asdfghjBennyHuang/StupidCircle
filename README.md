@@ -1,7 +1,7 @@
 # StupidCircle
 
 Here are some java files for a simple game. I developped it for beating my friend.
-The game is basicall like this: there is a triange
+The game is basicall like this: there is a triange<br><br>
 .......1<br>
 ......1.1<br>
 .....1.1.1<br>
